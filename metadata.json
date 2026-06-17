@@ -1,0 +1,6 @@
+{
+  "name": "Global Student Consultancy",
+  "description": "A premium, interactive platform for international students exploring study abroad pathways, scholarship calculations, application readiness, and expert counseling.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
